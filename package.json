@@ -1,0 +1,10 @@
+{
+  "name": "ai-agent-learning",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A minimal Node.js project for learning AI Agent concepts.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
